@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#D8DEE9FF",
+        "font" : "System Light",
+        "color" : "#D8DEE9FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#D8DEE9FF",
+        "font" : "System Light",
+        "color" : "#D8DEE9FF"
+      },
+      "backgroundSelected" : "#4C566AFF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#88C0D0FF",
+        "font" : "System Light",
+        "color" : "#D8DEE9FF"
+      },
+      "iconPaddingHorizontal" : 12,
+      "paddingVertical" : 4,
+      "iconSize" : 24
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#2E3440FF",
+      "spacing" : 4,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#B46EADFF",
+        "font" : "System Light",
+        "color" : "#E1E1E2FF"
+      },
+      "backgroundSelected" : "#2E3440FF"
+    },
+    "window" : {
+      "color" : "#2E3440FF",
+      "paddingHorizontal" : 0,
+      "width" : 550,
+      "borderPadding" : 4,
+      "borderColor" : "#2E3440FF",
+      "blur" : 40,
+      "roundness" : 4,
+      "paddingVertical" : 8
+    },
+    "credit" : "David Zhang",
+    "separator" : {
+      "color" : "#2E3440FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#81AFC1FF",
+      "thickness" : 2
+    },
+    "name" : "Nord"
+  }
+}
