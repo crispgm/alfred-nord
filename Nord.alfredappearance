@@ -6,7 +6,7 @@
         "size" : 10,
         "colorSelected" : "#D8DEE9FF",
         "font" : "System Light",
-        "color" : "#D8DEE9FF"
+        "color" : "#D8DEE999"
       },
       "shortcut" : {
         "size" : 12,
@@ -19,7 +19,7 @@
         "size" : 16,
         "colorSelected" : "#88C0D0FF",
         "font" : "System Light",
-        "color" : "#D8DEE9FF"
+        "color" : "#D8DEE9DD"
       },
       "iconPaddingHorizontal" : 12,
       "paddingVertical" : 4,
