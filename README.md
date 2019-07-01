@@ -2,7 +2,7 @@
 
 [Nord](https://github.com/arcticicestudio/nord) theme for [Alfred](https://www.alfredapp.com/)
 
-![screenshot](/screenshot.png)
+![screenshot](/screenshot.jpg)
 
 ## Install
 
