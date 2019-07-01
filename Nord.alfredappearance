@@ -45,7 +45,7 @@
       "borderColor" : "#2E3440FF",
       "blur" : 40,
       "roundness" : 4,
-      "paddingVertical" : 8
+      "paddingVertical" : 2
     },
     "credit" : "David Zhang",
     "separator" : {
